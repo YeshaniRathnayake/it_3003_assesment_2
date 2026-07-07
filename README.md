@@ -1,5 +1,4 @@
-
-AI-Assisted Programming Assignment
+Assesment 2 of iT 3003
 
 This repository contains two implementations of library management system:
 
